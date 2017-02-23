@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="236.46326"
+   height="93.619858"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="dotnetfringe-logo.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2447" />
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7891582"
+     inkscape:cx="35.861732"
+     inkscape:cy="55.461114"
+     inkscape:document-units="px"
+     inkscape:current-layer="text3483"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="925"
+     inkscape:window-height="693"
+     inkscape:window-x="31"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="35.304449,57.429144"
+       id="guide3003" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="123.36566,41.003726"
+       id="guide3005" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="130.39107,45.062993"
+       id="guide3007" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="25.942509,0.55882396"
+       id="guide3009" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- transform="translate(-104.40808,91.203418)"> -->
+  <!-- transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,0,0)" -->
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-118.97133,-4.3222323)">
+    <g
+       style="font-size:63.50114059px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Intro Cond;-inkscape-font-specification:Intro Cond Bold"
+       id="text3483">
+      <path
+         d="M 138.26925,25.503209 139.57512,26.809083 134.83528,32.371138 139.47839,37.788097 138.22088,39.142337 133.52941,33.725378 128.93467,39.190703 127.67716,37.884829 132.417,32.419504 127.58043,26.809083 128.83793,25.503209 133.62614,31.065264 138.26925,25.503209 M 118.97133,32.371138 C 118.97133,40.448203 125.50071,46.977581 133.57777,46.977581 141.65484,46.977581 148.23258,40.448203 148.23258,32.371138 148.23258,24.294074 141.65484,17.71633 133.57777,17.71633 125.50071,17.71633 118.97133,24.294074 118.97133,32.371138"
+         style="font-size:48.36570358px;fill:#008080"
+         id="path3525"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 165.26148,49.154038 165.26148,27.500149 184.24832,49.471543 187.42338,49.471543 187.42338,4.7032393 176.43768,4.7032393 176.43768,25.91262 157.70485,4.3222323 154.27578,4.3222323 154.27578,49.154038 165.26148,49.154038"
+         style="fill:#0000ff"
+         id="path3527"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 206.06593,14.799921 219.02016,14.799921 219.02016,4.7032393 195.14373,4.7032393 195.14373,49.154038 219.52817,49.154038 219.52817,38.549347 206.06593,38.549347 206.06593,31.310217 217.87714,31.310217 217.87714,21.150035 206.06593,21.150035 206.06593,14.799921"
+         style="fill:#0000ff"
+         id="path3529"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 222.98104,4.7032393 222.98104,14.863422 231.7442,14.863422 231.7442,49.154038 242.41239,49.154038 242.41239,14.863422 251.11205,14.863422 251.11205,4.7032393 222.98104,4.7032393"
+         style="fill:#0000ff"
+         id="path3531"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 159.25521,83.019325 170.49491,83.019325 172.52695,72.859142 161.28724,72.859142 163.25578,63.016466 176.14651,63.016466 178.17855,52.919784 154.30212,52.919784 145.41196,97.370583 156.39766,97.370583 159.25521,83.019325"
+         style="font-style:italic;font-variant:normal;font-stretch:normal;fill:#ff00ff;font-family:Intro Cond;-inkscape-font-specification:Intro Cond Bold Italic"
+         id="path3533"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 210.54051,97.383269 210.66752,96.811759 206.34944,80.682469 C 210.85802,77.76142 213.01706,73.76084 214.09658,68.680754 215.93811,59.282594 211.23902,52.995972 202.22187,52.995972 L 186.53708,52.995972 177.64692,97.383269 188.63262,97.383269 191.42667,83.47652 195.61775,83.47652 198.5388,97.383269 210.54051,97.383269 M 193.1412,74.01485 195.30024,63.029152 200.12633,63.029152 C 202.79337,63.029152 204.1904,65.188194 203.49189,68.426749 202.85688,71.792306 200.63433,74.01485 197.96729,74.01485 L 193.1412,74.01485"
+         style="font-style:italic;font-variant:normal;font-stretch:normal;fill:#ff00ff;font-family:Intro Cond;-inkscape-font-specification:Intro Cond Bold Italic"
+         id="path3535"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 233.89134,97.370583 235.79638,87.972414 231.2878,87.972414 236.36789,62.317953 240.43196,62.317953 242.33699,52.919784 223.28665,52.919784 221.38162,62.317953 225.38219,62.317953 220.3021,87.972414 215.85702,87.972414 213.95198,97.370583 233.89134,97.370583"
+         style="font-style:italic;font-variant:normal;font-stretch:normal;fill:#ff00ff;font-family:Intro Cond;-inkscape-font-specification:Intro Cond Bold Italic"
+         id="path3537"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 251.73369,97.370583 256.05177,75.716694 270.65703,97.688088 273.83209,97.688088 282.78575,52.919784 271.80005,52.919784 267.54547,74.129165 253.13071,52.538777 249.70165,52.538777 240.74799,97.370583 251.73369,97.370583"
+         style="font-style:italic;font-variant:normal;font-stretch:normal;fill:#ff00ff;font-family:Intro Cond;-inkscape-font-specification:Intro Cond Bold Italic"
+         id="path3539"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 284.15552,75.208685 C 281.42497,88.861416 287.39409,97.942093 299.14179,97.942093 312.92152,97.942093 320.35117,86.257869 322.1292,72.16063 L 304.28538,72.16063 302.38034,81.939805 309.11146,81.939805 C 307.14293,86.194378 304.34888,87.337402 301.30082,87.337402 296.22074,87.337402 293.80769,82.447807 295.26822,75.145183 296.79224,67.652056 300.66582,62.69896 306.19041,62.69896 309.42897,62.69896 311.52451,64.032487 311.96902,67.588548 L 322.63721,67.588548 C 322.89121,56.666362 315.77908,52.284773 308.28595,52.284773 297.04626,52.284773 286.88606,61.428951 284.15552,75.208685"
+         style="font-style:italic;font-variant:normal;font-stretch:normal;fill:#ff00ff;font-family:Intro Cond;-inkscape-font-specification:Intro Cond Bold Italic"
+         id="path3541"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 340.44831,63.016466 353.40254,63.016466 355.43458,52.919784 331.55815,52.919784 322.66799,97.370583 347.05243,97.370583 349.14797,86.765892 335.68573,86.765892 337.14625,79.526762 348.95746,79.526762 350.9895,69.36658 339.17829,69.36658 340.44831,63.016466"
+         style="font-style:italic;font-variant:normal;font-stretch:normal;fill:#ff00ff;font-family:Intro Cond;-inkscape-font-specification:Intro Cond Bold Italic"
+         id="path3543"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
